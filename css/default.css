@@ -43,10 +43,14 @@ dt{
 }
 
 .btn:active{
-  background-color: silver;
+  background-color: white;
 }
 
 .btn-submit{
+  background-color: silver;
+}
+
+.btn-reset{
   background-color: lightcoral;
 }
 
