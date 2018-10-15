@@ -9,3 +9,9 @@ body{
   border: green 1px solid;
   background-color: white;
 }
+
+.curry_picture:after{
+    content: "";
+    clear: both;
+    display: block;
+}
