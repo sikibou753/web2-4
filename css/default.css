@@ -10,6 +10,11 @@ body{
   background-color: white;
 }
 
+.photo{
+  float: left;
+  margin-right: 30px;
+}
+
 .curry_picture:after{
     content: "";
     clear: both;
