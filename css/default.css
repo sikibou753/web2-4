@@ -17,7 +17,8 @@ body{
 }
 
 .explanation{
-float: left;
+  float: left;
+  width: 198px;
 }
 
 dt{
