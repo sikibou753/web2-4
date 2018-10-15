@@ -73,3 +73,26 @@ td{
   width: 80px;
   text-align: right;
 }
+
+caption{
+  padding: 5px
+}
+
+#price{
+  background-color: lightyellow;
+}
+
+thead th,tfoot th{
+  background-color: white;
+}
+
+thead td{
+  color: white;
+  background-color: lightcoral;
+  text-align: center;
+}
+
+tfoot td{
+  font-weight: bold;
+  background-color: white;
+}
